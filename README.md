@@ -1,5 +1,3 @@
-# Portfolio-Website
-
 # Portfolio Website
 
 This is the README for my personal portfolio website. You can access the website [here](#your-website-link).
